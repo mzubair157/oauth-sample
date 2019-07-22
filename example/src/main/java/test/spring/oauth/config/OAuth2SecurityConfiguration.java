@@ -1,4 +1,4 @@
-package com.security.oauth.security;
+package test.spring.oauth.config;
 
 import javax.sql.DataSource;
 
@@ -20,7 +20,7 @@ import org.springframework.security.oauth2.provider.token.TokenStore;
 import org.springframework.security.oauth2.provider.token.store.JdbcTokenStore;
 
 @Configuration
-@EnableWebSecurity(debug = true)
+@EnableWebSecurity(debug=true)
 public class OAuth2SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 	@Autowired
@@ -74,5 +74,4 @@ public class OAuth2SecurityConfiguration extends WebSecurityConfigurerAdapter {
 	public static NoOpPasswordEncoder passwordEncoder() {
 		return (NoOpPasswordEncoder) NoOpPasswordEncoder.getInstance();
 	}
-
 }
