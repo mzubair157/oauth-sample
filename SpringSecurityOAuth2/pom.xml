@@ -13,7 +13,7 @@
 		<spring.security.version>5.0.5.RELEASE</spring.security.version>
 		<mysql.version>8.0.16</mysql.version>
 		<oauth.version>2.3.3.RELEASE</oauth.version>
-		<fasterxml.json.version>2.9.5</fasterxml.json.version>
+		<fasterxml.json.version>2.10.3</fasterxml.json.version>
 		<servlet.version>4.0.1</servlet.version>
 		<hibernate.version>5.4.1.Final</hibernate.version>
 	</properties>
