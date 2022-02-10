@@ -15,7 +15,7 @@
 		<oauth.version>2.3.3.RELEASE</oauth.version>
 		<fasterxml.json.version>2.9.5</fasterxml.json.version>
 		<servlet.version>4.0.1</servlet.version>
-		<hibernate.version>5.4.1.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 	</properties>
 	<dependencies>
 		<!-- Spring -->
