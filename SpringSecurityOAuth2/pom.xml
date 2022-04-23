@@ -9,7 +9,7 @@
 	<name>SpringSecurityOAuth2 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>5.0.6.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 		<spring.security.version>5.0.5.RELEASE</spring.security.version>
 		<mysql.version>8.0.16</mysql.version>
 		<oauth.version>2.3.3.RELEASE</oauth.version>
