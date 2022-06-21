@@ -11,7 +11,7 @@
 	<properties>
 		<spring.version>5.0.6.RELEASE</spring.version>
 		<spring.security.version>5.0.5.RELEASE</spring.security.version>
-		<mysql.version>8.0.16</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<oauth.version>2.3.3.RELEASE</oauth.version>
 		<fasterxml.json.version>2.9.5</fasterxml.json.version>
 		<servlet.version>4.0.1</servlet.version>
